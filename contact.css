@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    height: auto;
+    background-color: black;
+
+}
+.head{
+    height: 164px;
+    background-color: #242424;
+    display: grid;
+    grid-template-columns:40% 60%;
+}
+.hng{
+    background-color:  #242424; 
+}
+.logo1{
+    height: 15.85px;
+    width: 10px;  
+    margin-left: 96px;
+    margin-top: 30px;
+}
+.tog{
+    display: flex;
+}
+ p{
+    color: #d5dae0;
+    font-size: 13px;
+    display: flex;
+    margin-top: 30px; 
+    margin-left: 10px;
+    font: Roboto Condensed;
+}
+.logo2 {
+    height: 57px;
+    width: 207px; 
+    background-color:#242424 ;
+    margin-left: 95px;
+    margin-top: 50px;
+
+}
+.tog2{
+    height: 15px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-left: 300px;
+    
+}
+.tog2 h1{
+    font-size: 13px;
+    color: #d5dae0 ;
+    font: Roboto Condensed;
+    font-weight: 400;
+}
+.hom ul{
+    height: 23px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin-top: 60px;
+    margin-left: 92px;
+}
+ul input{
+    border-radius: 5px;
+    border: 1px;
+    height: 30px;
+    width: 100px;
+    background-color: transparent;
+    color: white;
+}
+.hom ul li{
+    color:white;
+    font-size: 13px;
+    margin-top: 7px;
+    font: Josefin Sans;
+    text-decoration: none;
+}
+.coww{
+    height: 632px;
+}
+.aintgonlie{
+    height: 900px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-style: Roboto Condensed  ;
+}
+.AGL{
+    justify-content: center;
+    background-color: #FFDF34;
+}
+.NTL{
+    color: white;
+}
+footer{
+    background-color: black;
+    height: 350px;
+}
+footer .lion{
+    display: flex;
+    justify-content: space-around;
+}
+.tiger ul a{
+    list-style-type: none;
+    color: white;
+    font-family: Roboto;
+    font-weight: 300px;
+    text-decoration: none;
+}
+.wolf ul a{
+    list-style-type: none;
+    color: white;
+    font-family: Roboto;
+    font-weight: 300px;
+    text-decoration: none;
+}
+.dog ul{
+    list-style-type: none;
+    color: white;
+    font-family: Roboto;
+    font-weight: 300px;
+}
+.cat li{
+    list-style-type:none ;
+    color: white;
+    font-family: Roboto;
+    font-weight: 300px;
+}
