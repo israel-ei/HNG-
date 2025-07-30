@@ -1,7 +1,7 @@
 🏨 HNG Hotel Website
 
-A responsive and visually appealing hotel booking website built as part of the HNG Internship program. It showcases modern web design practices and a user-friendly layout to enhance user experience.
-
+A visually appealing hotel booking website built as part of the HNG Internship program. It showcases modern web design practices and a user-friendly layout to enhance user experience.
+note:(still working on responsiveness)
 
 
  🚀 Features
